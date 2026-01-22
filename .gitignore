@@ -1,0 +1,16 @@
+# Ignore specific frontend file
+Frontend/fish-classification-website.html
+
+# Ignore chat history files
+chat/
+*.json
+.env
+
+# Ignore backend model files
+Backend/model/
+
+# Ignore uploaded images
+uploads/
+Backend/uploads/
+myenv/
+**/__pycache__/
