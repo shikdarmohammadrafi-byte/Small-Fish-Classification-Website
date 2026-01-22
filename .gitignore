@@ -7,7 +7,7 @@ chat/
 .env
 
 # Ignore backend model files
-Backend/model/
+# Backend/model/
 
 # Ignore uploaded images
 uploads/
